@@ -1,0 +1,59 @@
+.title {
+    width: 169px;
+    height: 15px;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.125rem;
+    color: #F24A02;
+    padding-top: 23px;
+    -webkit-text-stroke: 0.02em;
+    }
+
+.subtitle {
+    font-weight: 700;
+    font-size: 2.75rem;
+    color: #20242D;  
+    margin-top:13px;
+    -webkit-text-stroke: 0.02em;
+
+    
+}
+
+.para {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #69707D;
+    margin-top: 43px;
+    line-height:1.5;
+}
+
+.prix {
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: #20242D;
+    margin-top: 43px;
+    -webkit-text-stroke: 0.02em;
+  
+    
+}
+
+.prix2 {
+    text-decoration: line-through;
+    font-weight: 700;
+    font-size: 0.875rem;
+    line-height: 1.063rem;
+    color:#69707D ;
+    margin-top: -30px;
+    -webkit-text-stroke: 0.01em;
+ 
+    
+}
+
+
+
+.ensemble {
+    font-family: 'Kumbh Sans', sans-serif;
+    width: 550px;
+    height: 450px;
+    padding-left: 18px;
+}
